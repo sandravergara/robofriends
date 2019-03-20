@@ -1,6 +1,7 @@
 ## ROBOFRIENDS
 
 Clone this repository by simply run this piece of commands **git clone https://github.com/ssvergara/robofriends/git**
+
 Then run npm install to install node modules.
 
 ## Available Scripts

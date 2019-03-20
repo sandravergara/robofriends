@@ -1,7 +1,7 @@
 ## ROBOFRIENDS
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Clone this repository by simply run this piece of commands **git clone https://github.com/ssvergara/robofriends/git**
+Then run npm install to install node modules.
 
 ## Available Scripts
 
@@ -71,4 +71,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
 
-PS: Still on development
+**Still on development**

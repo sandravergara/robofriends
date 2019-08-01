@@ -4,7 +4,7 @@ const initialState = {
 	searchField = ''
 }
 
-export cons searchBots = (state=initialState, action{}) => {
+export const searchBots = (state=initialState, action{}) => {
 	switch(action.type) {
 		case: CHANGE_SEARCH_FIELD:
 		return Object.assign({}, state, searchField: action.payload);
